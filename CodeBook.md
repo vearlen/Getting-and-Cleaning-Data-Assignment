@@ -24,7 +24,8 @@ You can also embed plots, for example:
 library(tidyverse)
 #import features names
 features <- read.table("data/UCI HAR Dataset/features.txt")
-colnames (features) <- c("idfeature","feature") #give columns meaningful names
+#give columns meaningful names
+colnames (features) <- c("idfeature","feature") 
 
 #import activity names
 activity_labels <- read.table("data/UCI HAR Dataset/activity_labels.txt")
