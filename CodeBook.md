@@ -1,4 +1,4 @@
-## Download and save the data
+## Download and save the data 
 
 ```{r download and save}
 # DOWNLOAD AND UNZIP DATA -------------------------------------------------
