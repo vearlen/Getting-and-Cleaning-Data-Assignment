@@ -4,7 +4,6 @@ features - list of features
 
 activity_labels - list of activities
 
-
 features_train - train data
 
 features_test - test data
@@ -32,7 +31,8 @@ features_subj_activ_test - merged features test data with subject and activity
 
 merge_features - ALL DATA MERGED (QUESTION 1)
 
-merged_features_selected - ALL DATA with mean and standard deviation (QESTION 2-4)
+merged_features_selected - ALL DATA with mean and standard deviation (QUESTION 2-4)
 
 average_persubj_peractivity - new tidy data with average for each variable 
-                              by subject and activity
+                              by subject and activity (QUESTION 5)
+                              

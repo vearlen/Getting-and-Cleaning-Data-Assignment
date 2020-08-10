@@ -29,5 +29,5 @@ In general the workflow is the following:
 * group_by subject and activity and calculate mean
  
 
-The feature names used for observations are described in text file, accessible after download here:*'data/UCI HAR Dataset/features_info.txt'* or in CodeBook file.
+The feature names used for observations are described in text file, accessible after download here:*'data/UCI HAR Dataset/features_info.txt'* or in CodeBook.md file.
 
