@@ -16,7 +16,7 @@ You should create one R script called run_analysis.R that does the following.
 
 All steps are described in run_analysis.R file. 
 
-In general the workflow is the following:
+#### In general the workflow is the following:
 
 
 * import train/test data
@@ -28,6 +28,6 @@ In general the workflow is the following:
 *on that stage I have descriptive names and labels already*
 * group_by subject and activity and calculate mean
  
-
-The feature names used for observations are described in text file, accessible after download here:*'data/UCI HAR Dataset/features_info.txt'* or in CodeBook file.
+##### Feature names
+The feature names used for observations are described in text file, accessible after download here: *'data/UCI HAR Dataset/features_info.txt'* or in CodeBook file.
 
