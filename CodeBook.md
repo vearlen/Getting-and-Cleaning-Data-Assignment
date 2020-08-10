@@ -1,9 +1,14 @@
 ## Variables used
+
 features - list of features
+
 activity_labels - list of activities
 
+
 features_train - train data
+
 features_test - test data
+
 
 activity_train - list of activities for train data (ID)
 activiy_test - list of activicites for test data (ID)
